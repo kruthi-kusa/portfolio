@@ -2,7 +2,6 @@
 
 import { useState } from 'react';
 import { useInView } from 'react-intersection-observer';
-import Image from 'next/image';
 
 type Project = {
   title: string;

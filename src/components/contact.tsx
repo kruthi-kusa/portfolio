@@ -41,6 +41,7 @@ const Contact = () => {
       }, 5000);
     } catch (error) {
       setSubmitStatus('error');
+      console.error('Error submitting form:', error);
       
       // Reset status after 5 seconds
       setTimeout(() => {

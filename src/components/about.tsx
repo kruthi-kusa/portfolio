@@ -22,13 +22,13 @@ const About = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-lg mb-4">
-                I'm a <span className="text-primary font-semibold">Computer Science</span> graduate student at California State University, Fresno, 
+                I &apos; m a <span className="text-primary font-semibold">Computer Science</span> graduate student at California State University, Fresno, 
                 with a background in Computer Engineering from Stanley College of Engineering and Technology for Women.
               </p>
               
               <p className="text-lg mb-4">
                 My journey in tech has led me to develop expertise in full-stack web development, health tech, 
-                and AI applications. I'm passionate about creating solutions that combine technical excellence 
+                and AI applications. I&apos;m passionate about creating solutions that combine technical excellence 
                 with meaningful impact.
               </p>
               
